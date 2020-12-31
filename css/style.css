@@ -331,6 +331,9 @@ pre {
     margin: auto;
     animation: slideInFromBottom 1s ease-in;
   }
+  .showcase-form.card {
+    width: 300px;
+  }
 
   .cli .grid > *:first-child {
     grid-column: 1;
